@@ -1,0 +1,11 @@
+/PluginDDLS/32bit/*
+!/PluginDDLS/32bit/NowPlayingJellyfin.dll
+/PluginDDLS/64bit/*
+!/PluginDDLS/64bit/NowPlayingJellyfin.dll
+/obj
+/.vs
+/*.suo
+/*.csproj.user
+/x32
+/x64
+/packages
